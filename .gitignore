@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+fin-env/
+.env
+
+# Data files
+*.csv
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Snowflake
+*.snowsql
+
+# dbt
+target/
+dbt_packages/
+logs/

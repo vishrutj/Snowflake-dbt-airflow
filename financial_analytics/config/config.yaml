@@ -1,0 +1,14 @@
+# Stock Configuration
+tickers:
+  - MSFT
+  - AAPL
+  - GOOGL
+  - META
+  - SMCI
+  - TSLA
+  - NVDA
+  - NFLX
+
+# Date Range
+start_date: '2024-01-01'
+end_date: '2024-10-28'
